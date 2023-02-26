@@ -5,6 +5,7 @@ Project template to easily set up a RocketMod4/LDM project.
 * .NET Framework 4.8.1
 * Visual Studio 2022
 * Unturned 3 Dedicated Server installed using SteamCMD at C:\SteamCMD\steamapps\common\U3DS.
+* Building or launching will create a server called `TestServer`.
 
 # Features
 * Global Usings
